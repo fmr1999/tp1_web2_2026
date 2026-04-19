@@ -2,13 +2,13 @@
 
 ## Integrante 
 
- Machado Facundo
+ Machado Facundo.
 
 ## Temática
 
-  Organizacion de ligas y equipos de futbol
+  Organizacion de ligas y equipos de fútbol.
 
- ## Descripcion
-  Este sitio web permite mostrar diferentes tipos de ligas con sus respectivos equipos que pertenecen a ella
-  cada equipo pertenece a una unica liga y la liga contiene muchos equipos 
+ ## Descripción
+  Este sitio web permite mostrar diferentes tipos de ligas con sus respectivos equipos que pertenecen a ella,
+  cada equipo pertenece a una unica liga y la liga contiene muchos equipos. 
  
