@@ -1,0 +1,14 @@
+# Liga de futbol
+
+## Integrante 
+
+ Machado Facundo
+
+## Temática
+
+  Organizacion de ligas y equipos de futbol
+
+ ## Descripcion
+  Este sitio web permite mostrar diferentes tipos de ligas con sus respectivos equipos que pertenecen a ella
+  cada equipo pertenece a una unica liga y la liga contiene muchos equipos 
+ 
