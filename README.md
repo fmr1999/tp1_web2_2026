@@ -1,4 +1,4 @@
-# Liga de futbol
+# Liga de fútbol
 
 ## Integrante 
 
